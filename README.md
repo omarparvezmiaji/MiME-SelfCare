@@ -15,3 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 <img src ="assets/screen_shots/img1.JPEG">
+<img src ="assets/screen_shots/img2.JPEG">
+<img src ="assets/screen_shots/img3.JPEG">
+<img src ="assets/screen_shots/img4.JPEG">
+<img src ="assets/screen_shots/img5.JPEG">
+<img src ="assets/screen_shots/img6.JPEG">
