@@ -32,7 +32,7 @@ class LoginScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Padding(
-                      padding: const EdgeInsets.symmetric(horizontal: 50),
+                      padding: const EdgeInsets.symmetric(horizontal: 48),
                       child: TextField(
                         decoration: InputDecoration(
                           //hintText: "Enter your id",
